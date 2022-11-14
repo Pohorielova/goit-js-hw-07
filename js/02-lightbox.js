@@ -1,4 +1,5 @@
 import { galleryItems } from './gallery-items.js';
+
 // Change code below this line
 // +1.Создание и рендер разметки по массиву данных galleryItems и 
 // предоставленному шаблону элемента галереи. Используй готовый код из 
@@ -33,3 +34,8 @@ new SimpleLightbox('.gallery a', {
   captionDelay: 250,
   captionsData: 'alt',
 });
+
+
+
+
+
